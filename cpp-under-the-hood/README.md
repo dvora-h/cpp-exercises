@@ -1,1 +1,3 @@
-he task was to implement the underlying implementation of c++ inheritance, encapsulation & polymorphism
+# Description:
+
+The task was to implement the underlying implementation of encapsulation
